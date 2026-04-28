@@ -1,3 +1,7 @@
 numpy
 jupyter
 notebook
+torch
+torchaudio
+torchvision
+wheel
